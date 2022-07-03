@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumayahN
-- 👀 I’m interested in pursuing a career in Data Analysis
-- 🌱 I’m currently learning SQL, python, Tableau and Power BI
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Visualization projects
 - 📫 How to reach me via email: sumayahnabisere@gmail.com
 
